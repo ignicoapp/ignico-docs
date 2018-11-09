@@ -12,4 +12,5 @@
 ## REST API docs
 
 * [Authorization](rest-api-docs/api-docs-example.md)
+* [Actions](rest-api-docs/actions.md)
 
