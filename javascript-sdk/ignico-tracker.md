@@ -48,17 +48,17 @@ You need to replace following parameters in code listed above:
 
 To include a plugin into Ignico tracker:
 
-1. Include JavaScript code of this plugin \(before initialization of the tracker\):
-2.   ```markup
-   <script type="text/javascript" src="dist/plugins/referrer.js"></script>
-   ```
+* Include JavaScript code of this plugin \(before initialization of the tracker\):
 
-3. Declare plugin initialization within the tracker:  
+```markup
+<script type="text/javascript" src="dist/plugins/referrer.js"></script>
+```
 
+* Declare plugin initialization within the tracker:
 
-   ```javascript
-   iq("require", "referrer");
-   ```
+```javascript
+iq("require", "referrer");
+```
 
 ### **Tracker parameters configuration**
 
