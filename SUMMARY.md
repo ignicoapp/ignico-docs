@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Developers Hub](README.md)
 
 ## Javascript SDK
 
